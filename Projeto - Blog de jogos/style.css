@@ -1,0 +1,161 @@
+body{
+    font: 16px Arial;
+}
+
+
+/* PAGINA HOME */
+
+#principal{
+    margin: 0 auto;
+    width: 950px;
+}
+
+.menu{
+    text-align: center;
+    padding: 15px;
+    background: #D3D3D3	;
+}
+
+.menu a {
+    color: #2F4F4F;
+    text-decoration: none;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.capa img{
+   width: 950px;
+   height: 450px;
+}
+
+.Conteudo_Principal{
+    margin-top: 10px;
+    padding: 10px;
+    background: #DCDCDC;
+}
+
+.Conteudo_Principal h2{
+    color: #696969;
+    padding: 5px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.rodape{
+    text-align: center;
+    color: black;
+     font-weight: bold;
+}
+
+.linha_rodape{
+    padding-top: 15px;
+}
+
+.linha_rodape hr{
+    width: 950px;
+    color: #696969;
+
+}
+
+
+/* PAGINA NOTICIAS */
+
+.noticias{
+    margin-top: 10px;
+    padding: 10px;
+    background: #DCDCDC;
+}
+
+.noticias h2{
+
+    color: #696969;
+    padding: 5px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.noticias h3{
+
+    padding-top: 100px;
+    color: #696969;
+    font-size: 22px;
+}
+
+
+
+/* PAGINA JOGOS */
+
+.Download_jogos{
+
+    margin-top: 10px;
+    padding: 10px;
+    background: #DCDCDC;
+}
+
+.Download_jogos h2{
+
+    color: #696969;
+    padding: 5px;
+    text-align: center;
+    font-size: 22px;
+}
+
+
+.Download_jogos h3{
+
+    text-align: center;
+    padding-top: 100px;
+    color: #A52A2A	;
+    font-size: 22px;
+}
+
+.img_jogos{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+}
+
+.botao_download{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+.Download_jogos p{
+    text-align: center;
+}
+
+.Download_jogos h4{
+    padding-top: 5px;
+    text-align: center;
+}
+
+
+
+/* PAGINA CONTATO */
+
+.Conteudo_contato{
+
+    margin-top: 10px;
+    padding: 10px;
+    background: #DCDCDC;
+}
+
+
+.Conteudo_contato h2{
+ 
+    color: #696969;
+    padding: 5px;
+    text-align: center;
+    font-size: 22px;
+    
+}
+
+.contato{
+   text-align: center; 
+   padding-top: 25px;
+}
